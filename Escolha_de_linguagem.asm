@@ -1,3 +1,6 @@
+# COntext: A group of exchange are organizing witch language speak. If speakers of defferent nacionalities will talk, they talk in english, if they are from same country, use native language
+# develop the language that should be spoken
+
 .text
  
 .globl main
